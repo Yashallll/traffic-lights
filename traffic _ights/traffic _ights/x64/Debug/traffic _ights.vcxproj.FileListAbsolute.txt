@@ -1,0 +1,8 @@
+C:\Users\Yato\Desktop\Учёба\ОА\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.AssemblyReference.cache
+C:\Users\Yato\Desktop\Учёба\ОА\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yato\Desktop\Учёба\ОА\traffic _ights\traffic _ights\x64\Debug\trafficights.MyForm.resources
+C:\Users\Yato\Desktop\Учёба\ОА\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 1\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 1\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 1\traffic _ights\traffic _ights\x64\Debug\trafficights.MyForm.resources
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 1\traffic _ights\traffic _ights\x64\Debug\traffic _ights.vcxproj.GenerateResource.cache
